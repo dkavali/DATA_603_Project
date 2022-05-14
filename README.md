@@ -23,7 +23,7 @@ We have used the following bigdata tools:
 ## Steps to run the file
 
 We have 2 files to run - 
-1. With a senntiment dataset and word cloud visualizations - This can be executed as normal .ipynb file
+1. With a sentiment dataset and word cloud visualizations - This can be executed as normal .ipynb file
 2. Second file is required to have MongoDb connection as the data is retrieved from MongoDb in the notebook. This notebook will also need Apache Spark as it is coded in Apache Spark. 
 
 
